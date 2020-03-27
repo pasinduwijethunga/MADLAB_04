@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidNotification</string>
+    <string name="topic">Notification</string>
+    <string name="hint_Main">Name</string>
+    <string name="btn_Main">Sign Up</string>
+    <string name="ET1_DIS">Name</string>
+    <string name="ET2_DIS">Email</string>
+    <string name="ET3_DIS">Telephone</string>
+    <string name="ET4_DIS">Password</string>
+    <string name="ET5_DIS">Re-type Password</string>
+    <string name="BTN_DIS">Register</string>
+    <string name="BTN2_DIS">Cancle</string>
+    <string name="ID1_MainJava">channel_name</string>
+    <string name="ID2_MainJava">channel_description</string>
+    <string name="channel_name">id1_MainJava</string>
+    <string name="channel_description">id2_MainJava</string>
+</resources>
